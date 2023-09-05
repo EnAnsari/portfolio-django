@@ -1,0 +1,9 @@
+portfolio/.idea
+
+*.pyc
+
+portfolio/portfolio/local_*.py
+
+/env
+
+*.sqlite3
